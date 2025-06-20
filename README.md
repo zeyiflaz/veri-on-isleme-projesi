@@ -24,3 +24,4 @@ Bu proje, Python ile makine öğrenmesine giriş düzeyinde veri ön işleme uyg
    ```bash
    pip install pandas numpy matplotlib scikit-learn
 "#veri-on-isleme-projesi" 
+"# veri_on_isleme_sablonu" 
